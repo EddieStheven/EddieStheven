@@ -1,6 +1,6 @@
 ### Olá👋! Me chamo Eddie Stheven
 
-  Tenho 29 anos, moro em Salvador/BA e atualmente eu curso Engenharia de Computação! Aqui é onde vai ficar a maioria dos meus projetos, seja eles de faculdade, trabalho, estagio ou até mesmo pessoal! 
+  Tenho 21 anos, moro em Salvador/BA e atualmente eu curso Engenharia de Computação! Aqui é onde vai ficar a maioria dos meus projetos, seja eles de faculdade, trabalho, estagio ou até mesmo pessoal! 
   
 Estou sempre aprendendo: <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Rafa-Python" height="30" width="40" 
