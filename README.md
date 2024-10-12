@@ -13,11 +13,10 @@
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Spring Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="JavaFX" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/JavaFX_Logo.svg">
+  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 </div>
-
+          
 ---
 
 ## 📫 Contato
