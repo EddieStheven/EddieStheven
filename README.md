@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Eddie Stheven Dantas Leal
+# 👋 Olá! Eu sou Eddie Stheven.
 
 🎓 Tenho 22 anos e sou estudante de Engenharia de Computação no Centro Universitário Jorge Amado, em Salvador/BA. Sempre fui apaixonado por tecnologia, e essa paixão se reflete em tudo o que faço, desde hardware até software avançado.
 
@@ -6,11 +6,16 @@
 
 ---
 
-## 🚧 Atualmente estou aprendendo:
+## 🚧 Sempre aprendendo:
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Spring Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="JavaFX" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/JavaFX_Logo.svg">
+</div>
 </div>
 
 ---
