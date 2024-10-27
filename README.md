@@ -1,12 +1,21 @@
 # 👋 Olá! Eu sou Eddie Stheven.
 
+#PtBR
+
 🎓 Tenho 22 anos e sou estudante de Engenharia de Computação no Centro Universitário Jorge Amado, em Salvador/BA. Sempre fui apaixonado por tecnologia, e essa paixão se reflete em tudo o que faço, desde hardware até software avançado.
 
 🚀 Aqui você encontrará a maioria dos meus projetos, incluindo trabalhos acadêmicos, profissionais e pessoais. Estou sempre buscando aprender e aprimorar minhas habilidades em novas tecnologias.
 
+# EN
+
+🎓Hello, my name's Eddie and I'm 22 years old and a Computer Engineering student at Centro Universitário Jorge Amado, in Salvador, Brazil. I've always been passionate about technology, and this passion is reflected in everything I do, from hardware to advanced software.
+
+🚀 Here, you'll find most of my projects, including academic, professional, and personal work. I'm always seeking to learn and improve my skills in new technologies.
+
+
 ---
 
-## 🚧 Sempre aprendendo:
+## 🚧 Sempre aprendendo/Always learning:
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
